@@ -1,4 +1,23 @@
-## Hi there 👋
+# Blockchain Research Engineer
+Hello World, my name is Andrei Ivasko and I am a research engineer focused on zero knowledge proofs
+
+## Core Skills
+- Rust
+- Go
+- Distributed Systems and Blockchain
+- Cryptography
+- Zero-Knowledge
+
+## Other Languages
+- Python
+
+## Experience
+- Research engineer contractor (08.2024-now)
+- Core developer at Fantom foundation (12.2021-05.2024)
+- Developer at Regen Network (03.2021-09.2021)
+- Part time open source contributor at Prysm Eth2 client (09.2018-05.2019)
+- Blockchain developer at Blockchains LLC (06.2018 - 12.2019)
+
 
 
 

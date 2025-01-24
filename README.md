@@ -11,6 +11,14 @@ Hello World, my name is Andrei Ivasko and I am a research engineer focused on ze
 ## Other Languages
 - Python
 
+## Some freetime side projects
+- [GKR protocol](https://github.com/cyberbono3/gkr-protocol)
+- [KZG-Halo2](https://github.com/cyberbono3/kzg-halo2)
+- [Stark Prover](https://github.com/cyberbono3/stark-prover)
+- [ZK graph](https://github.com/cyberbono3/zk_graph)
+
+
+
 ## Experience
 - Research engineer contractor (08.2024-now)
 - Core developer at Fantom foundation (12.2021-05.2024)

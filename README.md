@@ -14,7 +14,6 @@ Hello World, my name is Andrei Ivasko and I am a research engineer focused on ze
 ## Some freetime side projects
 - [GKR protocol](https://github.com/cyberbono3/gkr-protocol)
 - [KZG-Halo2](https://github.com/cyberbono3/kzg-halo2)
-- [Stark Prover](https://github.com/cyberbono3/stark-prover)
 - [FRI polynomial commitment](https://github.com/cyberbono3/commitment)
 - [MSM](https://github.com/cyberbono3/msm)
 - [ZK graph](https://github.com/cyberbono3/zk_graph)

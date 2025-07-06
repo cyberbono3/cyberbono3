@@ -20,9 +20,9 @@ Hello World, my name is Andrei Ivasko and I am a research engineer focused on ze
 
 ## You can reach me:
 - 📫 andrei@ivasko.me
-- 🌐 My Blog https://hackmd.io/@aiv768
-- 👤 My LinkedIn profile: Andrei Ivasko
-- X: x.com/aiv768
+- 🌐 [My Blog](https://hackmd.io/@aiv768) 
+- 👤 [My LinkedIn profile](https://www.linkedin.com/in/andreiivasko/)
+-  [X](https://x.com/aiv768)
 
 
 

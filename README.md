@@ -18,7 +18,11 @@ Hello World, my name is Andrei Ivasko and I am a research engineer focused on ze
 - [MSM](https://github.com/cyberbono3/msm)
 - [ZK graph](https://github.com/cyberbono3/zk_graph)
 
-
+## You can reach me:
+📫 andrei@ivasko.me
+🌐 My Blog https://hackmd.io/@aiv768
+👤 My LinkedIn profile: Andrei Ivasko
+X: x.com/aiv768
 
 
 

@@ -24,7 +24,7 @@ Hello World, my name is Andrei Ivasko and I am a research engineer focused on ze
 - 👤 [My LinkedIn profile](https://www.linkedin.com/in/andreiivasko/)
 -  [X](https://x.com/aiv768)
 
-
+Note: I accidentally removed my former working email from GitHub, which downgraded my contribution activity
 
 <!--
 **cyberbono3/cyberbono3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
